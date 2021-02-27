@@ -42,6 +42,7 @@ let package = Package(
                 .headerSearchPath("GCDWebServer/Core"),
                 .headerSearchPath("GCDWebServer/Requests"),
                 .headerSearchPath("GCDWebServer/Responses"),
+                .headerSearchPath("GCDWebUploader/"),
             ]),
     ]
 )
